@@ -2,4 +2,4 @@
 
 
 
-https://abc-flightapi.herokuapp.com/predict
+https://flight1api.herokuapp.com/
